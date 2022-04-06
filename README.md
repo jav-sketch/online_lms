@@ -1,10 +1,10 @@
-# A Online learning Academy
+# An Online learning Academy
 
 **Version 1.0.0**
-
-A reoo created for digital learning..
+A repo created for digital learning..
 
 --
+
 ## Contributors
 
 - Javon Browne <javonbrowne@gmail.com >
