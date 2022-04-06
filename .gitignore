@@ -2,6 +2,7 @@ env/*
 
 # Speciific Files & Folder #
 settings.py
+migrations
 
 
 # Django #
